@@ -1,0 +1,4 @@
+#add;
+
+if app.ENABLE_BUG_REPORT_SYSTEM:
+	REPORT_WND_ISOPEN = 0

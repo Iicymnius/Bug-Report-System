@@ -1,0 +1,5 @@
+"1 dakika gecemeden tekrar sorun bildiremezsin.";
+"1 dakika geçmeden tekrar sorun bildiremezsiniz.";
+
+"Sorun basarili sekilde bildirildi.";
+"Sorun başarılı bir şekilde bildirildi.";
